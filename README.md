@@ -87,6 +87,12 @@ To deactivate the virtual environment when you're done, simply type `deactivate`
 
 After cleaning and formatting the data I utilized a Tableau Dashboard to create visualizations of the complete data. [The Dashboard can be found here](https://public.tableau.com/app/profile/houston.miller/viz/OregonWildfire/OregonFireData)
 
+## Conclusions and Further Questions
+
+While the acreage burned from smoking fires is extremely low, moving into counties with much higher populations shows a significant increase in fires caused by smoking. Conversely, in more rural counties lightning fires burn much larger amounts of acres and show high reports of fires caused by lighting as well.
+
+While showing high volues of reported fires as well, the areas outside of the higher centers of population density show high number of burns AND acres burned caused by equipment use. Potentially showing development in these areas or simply resource harvesting for the neighboring counties. 
+
 ## Data Analysis Capstone Requirements | Spring 2023
 
 **Category 1: Loading Data:**
